@@ -17,8 +17,8 @@ This project is a web scraper built using Node.js, Puppeteer, and xlsx that extr
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/naukri-it-jobs-scraper.git
-    cd naukri-it-jobs-scraper
+    git clone https://github.com/sriram1224/WebScraper.git
+    cd WebScraper
     ```
 
 2. Install the dependencies:
